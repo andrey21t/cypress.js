@@ -1,5 +1,4 @@
 ### Как запустить?
-
 1. Установить node.js: https://nodejs.org/en/download/
 2. Скачать проект из github и открыть в IDE (например, sublime): 
 3. Запустить команду в гитбаше (в папке cypress): `npm install`
